@@ -1,0 +1,22 @@
+graph = {
+  '5' : ['3','7'],
+  '3' : ['2', '4'],
+  '7' : ['8'],
+  '2' : ['1'],
+  '4' : ['8'],
+  '8' : [],
+  '1' : ['8']
+}                   # graph or tree whose nodes are to be "searched"
+
+visited = set() # Set to keep track of visited nodes of graph.
+
+def dfs(visited, graph, node):  #function for dfs
+    if node not in visited:
+        print (node)
+        visited.add(node)
+        for nextnegh in graph[node]:
+            dfs(visited, graph, nextnegh)
+
+# Driver Code
+print("Following is the Depth-First Search: ")
+dfs(visited, graph, '5')         # Because 5 is the head node for this particular driver code
