@@ -27,7 +27,7 @@
 | CaesarCipher.py         |  [CaesarCipher.py](https://github.com/Adrija-G/PythonProjects_myself/tree/main/Ciphers/CaesarCipher.py) |
 | ColumnarTransposition.py |  [ColumnarTransposition.py](https://github.com/Adrija-G/PythonProjects_myself/tree/main/Ciphers/ColumnarTransposition.py) |
 | HillCipher.py           |  [HillCipher.py](https://github.com/Adrija-G/PythonProjects_myself/tree/main/Ciphers/HillCipher.py) |
-| RailFenceCipher.py      | Rail Fence cipher implementation    | [RailFenceCipher.py](https://github.com/Adrija-G/PythonProjects_myself/tree/main/Ciphers/RailFenceCipher.py) |
+| RailFenceCipher.py      | [RailFenceCipher.py](https://github.com/Adrija-G/PythonProjects_myself/tree/main/Ciphers/RailFenceCipher.py) |
 
 
 
