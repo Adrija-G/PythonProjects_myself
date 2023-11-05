@@ -1,4 +1,4 @@
-# Python Projects Collection :snake:
+# Python Projects 
 
 🚀 This is a collection of Python projects I have done using the free and open-source text and source code editor Visual Studio Code. :computer:
 
