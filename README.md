@@ -1,8 +1,8 @@
 # Python Projects 
 
-🚀 This is a collection of Python projects I have done using the free and open-source text and source code editor Visual Studio Code. :computer:
+This is a collection of Python projects I have done using the free and open-source text and source code editor Visual Studio Code. :computer:
 
-🌟 I hope to advance my skills & knowledge of Python, and build more programs into this repository, with time. :rocket:
+I hope to advance my skills & knowledge of Python, and build more programs into this repository, with time. :rocket:
 
 # Python Programs :page_with_curl:
 
