@@ -18,6 +18,7 @@ I hope to advance my skills & knowledge of Python, and build more programs into 
 | Pong.py                 |[Pong.py](https://github.com/Adrija-G/PythonProjects_myself/blob/main/Pong.py) |
 | PopQuiz.py              |  [PopQuiz.py](https://github.com/Adrija-G/PythonProjects_myself/blob/main/PopQuiz.py) |
 | SudokuSolver.py         |  [SudokuSolver.py](https://github.com/Adrija-G/PythonProjects_myself/blob/main/SudokuSolver.py) |
+| Word Finder & Highlighter (Enter any passage and input word to be searched, and the program will display the respective line numbers where the search word occurs, along with its neighbouring words, for easier detection) | [WordFinder&Highlighter](https://github.com/Adrija-G/PythonProjects_myself/blob/main/PythonNLTK_WordHighlighter.py)
 
 ## [Ciphers](https://github.com/Adrija-G/PythonProjects_myself/tree/main/Ciphers)
 
