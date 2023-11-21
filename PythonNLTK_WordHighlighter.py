@@ -7,13 +7,11 @@ def preprocess_text(text):
     print(tokens)
     return tokens
     
-
 def contains_query(sentence_tokens, queries):
     for token in sentence_tokens:
         if any(query == token for query in queries):
             return True
     return False
-
 
 def highlight_relevant_parts(document, queries):
     stop_words = set(stopwords.words('english'))
@@ -36,7 +34,6 @@ def highlight_relevant_parts(document, queries):
 
     return highlighted_document
 
-
 queries = []
 num_queries = int(input("Enter the number of keywords to be searched: "))
 for _ in range(num_queries):
@@ -44,7 +41,6 @@ for _ in range(num_queries):
     queries.append(query)
 
 document = input('Enter text input:\n')
-
 
 highlighted_doc = highlight_relevant_parts(document, queries)
 print(highlighted_doc)
